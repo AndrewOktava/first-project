@@ -1,3 +1,3 @@
-public static main (String[] args) {
+public static main(String[] args){
 
 }
